@@ -6,3 +6,5 @@
 * Currently learning full stack web development at Lambda School :bulb:
 * 2021 Goals: Graduate from Lambda School and starting a developer job :eyes:
 * Hobbies/Interests: Video Games :video_game:, Snowboarding :snowboarder:, MMA, Anime :sunglasses:, Travel :briefcase:, Watching Youtube videos for too long :loop:
+
+[LinkedIn](https://www.linkedin.com/in/leon-nasswetter-161811178/)
