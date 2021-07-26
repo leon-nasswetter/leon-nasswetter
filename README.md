@@ -11,5 +11,5 @@
 [LinkedIn](https://www.linkedin.com/in/leon-nasswetter-161811178/)
 
 ### Skills: 
-HTML | CSS | JAVASCRIPT | REACT | REDUX | NODE | PYTHON | SQLITE | MONGODB
+HTML | CSS | JAVASCRIPT | REACT | REDUX | NODE | EXPRESS | PYTHON | SQLITE | MONGODB
 
