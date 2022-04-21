@@ -1,6 +1,6 @@
 ## Hey, I'm Leon a Full Stack Web Developer
 
-### 💡 Lambda Schhol Full-Stack Webdevelopment Graduate 💡
+### 💡 Lambda School Full-Stack Webdevelopment Graduate 💡
 ------------------------------------------------------------------------------
  
 * I am originally from Germany and have lived in 4 different countries :earth_americas:
